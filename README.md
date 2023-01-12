@@ -1,4 +1,4 @@
-# CIS169 - C# Programing - Fall 2022 - Final
+# CIS169 - C# Programming I - Fall 2022 - Final
 **Recieved an 'A' for my Final Project**
 ### Final Project Specifications
 **Create a MVC Web App**
