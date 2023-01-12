@@ -1,5 +1,5 @@
 # CIS169 - C# Programming I - Fall 2022 - Final
-**Recieved an 'A' for my Final Project**
+**Recieved an 'A' for my Final Project - Screenshots below**
 ### Final Project Specifications
 **Create a MVC Web App**
 * Class Model should be called StudentWorkerModel and inherited from a Student class with properties of (app must include at least two class): 
