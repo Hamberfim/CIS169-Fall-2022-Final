@@ -39,3 +39,10 @@
     - Test 3. Invalid hourly salary (too low)
     - Test 4. Invalid hourly salary (too high)
     - Test 5. Valid test 
+
+### Screenshots
+![Alt](https://github.com/Hamberfim/CIS169-Fall-2022-Final/blob/main/01_clearSubmit.jpg)
+![Alt](https://github.com/Hamberfim/CIS169-Fall-2022-Final/blob/main/02_InvalidSubmit.jpg)
+![Alt](https://github.com/Hamberfim/CIS169-Fall-2022-Final/blob/main/03_InvalidSubmit.jpg)
+![Alt](https://github.com/Hamberfim/CIS169-Fall-2022-Final/blob/main/04_ValidSubmit.jpg)
+![Alt](https://github.com/Hamberfim/CIS169-Fall-2022-Final/blob/main/05_TestsPass.jpg)
